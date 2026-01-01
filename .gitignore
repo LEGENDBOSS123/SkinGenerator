@@ -1,0 +1,10 @@
+pyvenv.cfg
+.venv/
+__pycache__/
+.DS_Store/
+checkpoints/
+checkpoints2/*
+!checkpoints2/skin_model_v2_ep50.pth
+skins_dataset.pt
+skins_tokens.pt
+avatars.json
